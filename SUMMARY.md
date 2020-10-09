@@ -1,6 +1,6 @@
 # Summary
 
-## What I was able to complete:
+### What I was able to complete:
 
 - Made multiple endpoint to perform `CREATE`, `READ`, `DELETE` for posts
 - Made an endpoint to get `USERS`
